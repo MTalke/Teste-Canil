@@ -1,6 +1,6 @@
 # Teste-canil
 
-Teste Prático Dti Digital
+Teste Prático
 
 
 # O problema 
